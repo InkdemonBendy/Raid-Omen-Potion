@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.mcreator.llamalordsraidbottle.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.llamalords_raid_bottle.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+
+  ],
+  "minVersion": "0.8"
+}

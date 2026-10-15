@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="llamalords_raid_bottle"
+version="1.0.0"
+displayName="LlamaLord's Raid Bottle"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="LlamaLord, MCreator"
+description="heya! This mod adds a potion that gives you bad omen, no more outpost searching!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.llamalords_raid_bottle]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
